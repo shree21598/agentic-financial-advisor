@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.pytest_cache/
+*.egg-info/
+data/index/
+eval/results/*.json
+eval/results/*.jsonl
+!eval/results/.gitkeep
+eval/results/*offline*
